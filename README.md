@@ -2,7 +2,8 @@
 Need inspiration? Check out the contents <br>
 This Repository is solely made to dump any idea that crosses your mind at any point of time <br>
 Feel free to fork and develop your own <br>
-Dont forget to make PRs
+
+#### Use this repository as a dropbox of your ideas
 
 ## Instructions
 - Add your details to contributors.md file
