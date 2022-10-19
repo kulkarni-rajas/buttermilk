@@ -1,2 +1,2 @@
 ## Protips
-- Meh.
+- Dont forget to add hacktoberfest tags
