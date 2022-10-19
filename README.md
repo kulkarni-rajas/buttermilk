@@ -9,3 +9,4 @@ Dont forget to make PRs so as to share your ideas here too
 - Add a file in ideas directory
 - Name the file in the format GITHUB-PROFILE(Idea Number).EXTENSION
 - Make a PR and ask for review
+- Just wait and hope to be in the first 40,000 people to complete hacktober fest challenge
