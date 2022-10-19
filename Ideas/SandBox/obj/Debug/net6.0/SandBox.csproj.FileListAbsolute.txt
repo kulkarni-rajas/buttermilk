@@ -1,0 +1,15 @@
+C:\Users\Rajas\source\repos\SandBox\SandBox\bin\Debug\net6.0\SandBox.exe
+C:\Users\Rajas\source\repos\SandBox\SandBox\bin\Debug\net6.0\SandBox.deps.json
+C:\Users\Rajas\source\repos\SandBox\SandBox\bin\Debug\net6.0\SandBox.runtimeconfig.json
+C:\Users\Rajas\source\repos\SandBox\SandBox\bin\Debug\net6.0\SandBox.dll
+C:\Users\Rajas\source\repos\SandBox\SandBox\bin\Debug\net6.0\SandBox.pdb
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.csproj.AssemblyReference.cache
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.AssemblyInfoInputs.cache
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.AssemblyInfo.cs
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.csproj.CoreCompileInputs.cache
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.dll
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\refint\SandBox.dll
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.pdb
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\SandBox.genruntimeconfig.cache
+C:\Users\Rajas\source\repos\SandBox\SandBox\obj\Debug\net6.0\ref\SandBox.dll
